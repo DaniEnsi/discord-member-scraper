@@ -1,5 +1,5 @@
 # Discord Member Scraper
-Discord Member Scraper for user token. (Uses Useraccounts instead of bot token)
+Discord Member Scraper for user token. (Uses Uses Accounts instead of bot token)
 
 # How to use
 - Put your token in the "__token__" variable in the main.py file
