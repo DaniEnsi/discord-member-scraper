@@ -1,8 +1,8 @@
-# Member-Scraper
-Member Scraper for realistic tokens (using user token, not bot token)
+# Discord Member Scraper
+Discord Member Scraper for user token. (Uses Useraccounts instead of bot token)
 
-ik its messy asf stfu
-
-### Usage
-
-put ur token in the `__token__` variable and run it, itll scrape all users in every server ur in
+# How to use
+- Put your token in the "__token__" variable in the main.py file
+- Run the main.py file
+- The program willscrape all the members of all the server you are in
+- The names can be found in names.txt
